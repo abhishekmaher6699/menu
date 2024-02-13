@@ -10,7 +10,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: black;
+  background-color: rgb(122, 119, 119);
 }
 #menubar h1{
   color: white;
